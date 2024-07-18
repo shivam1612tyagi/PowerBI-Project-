@@ -1,4 +1,4 @@
-# PowerBI HR Attrition Project - Utkarsh Gaikwad
+# PowerBI HR Attrition Project - Shivam Tyagi
 ---
 - Developed a comprehensive HR attrition dashboard using Power BI, providing stakeholders with a detailed view of employee turnover data.
 - Utilized Power BI's features to visualize attrition metrics such as turnover rates, reasons for attrition, and demographic breakdowns.
